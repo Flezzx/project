@@ -1,6 +1,6 @@
 import React from "react";
 
-const Dialogs = (props) =>{
+const Settings = (props) =>{
     return(
         <div>
             Messages sssssssssssss
@@ -8,4 +8,4 @@ const Dialogs = (props) =>{
     )
 }
 
-export default Dialogs;
+export default Settings;
